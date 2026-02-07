@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Morf1/Morf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Morf1sska/Morf1sska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
